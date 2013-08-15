@@ -1,4 +1,4 @@
-html5game
+Unnamed Game
 =========
 
-html5 canvas game development learning project
+HTML5 canvas game development learning project
